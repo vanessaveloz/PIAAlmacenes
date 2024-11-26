@@ -1,0 +1,1001 @@
+id,asistente,edad,género,tipo_boleto,precio_boleto,ciudad_origen,fila_asiento,sección,asistió
+1,Camila Wilson,27,hombre,General,178.75,México DF,42,F,0
+2,Laura Smith,74,mujer,Backstage,959.65,Lima,18,A,0
+3,Ana García,64,mujer,Backstage,273.84,Tokio,9,B,1
+4,Gabriel Taylor,71,hombre,General,691.29,Toronto,34,E,0
+5,Miguel Thomas,29,hombre,Backstage,664.50,Madrid,7,E,1
+6,Carlos Brown,19,mujer,Backstage,722.32,Buenos Aires,24,B,0
+7,Carlos Martinez,60,hombre,Backstage,994.80,Madrid,37,D,0
+8,María Lopez,18,otro,Backstage,201.15,Londres,40,B,1
+9,María Jackson,68,mujer,General,335.47,París,6,F,1
+10,Daniel Smith,18,mujer,General,969.67,Lima,1,B,0
+11,Laura García,29,mujer,VIP,327.77,Buenos Aires,25,D,0
+12,Emma Anderson,61,hombre,VIP,374.52,Lima,45,B,1
+13,Carlos Brown,38,otro,Backstage,732.71,Lima,27,D,0
+14,John Smith,59,mujer,Backstage,940.28,Berlín,37,C,1
+15,Luis Martinez,19,hombre,General,984.47,Buenos Aires,25,B,0
+16,Carlos Jackson,55,otro,VIP,903.06,Tokio,50,A,1
+17,María García,61,hombre,General,69.47,México DF,2,B,1
+18,Carlos Miller,58,otro,General,328.89,Los Angeles,27,F,1
+19,Camila Thomas,30,mujer,Backstage,577.68,Bogotá,14,B,0
+20,David Rodriguez,32,mujer,General,264.89,Lima,49,A,0
+21,David Brown,44,mujer,General,114.30,Sídney,12,C,0
+22,Miguel Anderson,45,otro,VIP,546.94,Nueva York,26,C,0
+23,Emma Moore,23,mujer,VIP,676.62,Bogotá,34,F,0
+24,David Wilson,59,hombre,General,776.90,París,24,C,1
+25,Miguel Miller,42,hombre,Backstage,923.46,Buenos Aires,3,D,1
+26,Ana Smith,65,otro,General,409.55,Lima,18,E,0
+27,Laura Rodriguez,41,otro,General,613.09,París,33,B,1
+28,Daniel Brown,69,otro,VIP,759.11,Los Angeles,42,F,0
+29,Ana García,72,hombre,Backstage,633.22,Tokio,45,C,0
+30,Laura Gonzalez,20,mujer,VIP,85.19,Bogotá,49,F,1
+31,Emma Davis,38,hombre,General,145.68,Santiago,34,C,0
+32,Valentina Taylor,71,otro,VIP,482.29,Toronto,12,F,0
+33,David Martinez,34,otro,Backstage,69.33,Bogotá,27,C,0
+34,Valentina Moore,23,mujer,General,589.78,Madrid,2,C,0
+35,Samantha Wilson,21,otro,VIP,902.78,Nueva York,30,D,1
+36,Isabella Gonzalez,34,otro,General,359.78,Los Angeles,39,A,1
+37,María Thomas,68,otro,Backstage,77.97,Los Angeles,34,B,0
+38,Luis Johnson,31,otro,VIP,764.86,París,24,F,1
+39,Emma Wilson,38,mujer,Backstage,601.47,Lima,11,D,1
+40,Sofia Miller,41,mujer,General,495.00,París,8,C,1
+41,Miguel Brown,56,mujer,Backstage,199.00,México DF,30,F,1
+42,David Thomas,27,otro,VIP,455.67,Toronto,38,C,1
+43,John Rodriguez,33,hombre,General,494.88,Bogotá,50,F,0
+44,Isabella Smith,65,hombre,VIP,909.23,Tokio,24,A,1
+45,Valentina Brown,18,mujer,VIP,980.91,Santiago,37,B,0
+46,Daniel Johnson,72,otro,Backstage,451.27,Toronto,29,C,0
+47,Sofia Smith,19,otro,Backstage,691.90,Lima,22,D,0
+48,Valentina Moore,20,otro,Backstage,261.30,Toronto,42,A,0
+49,Laura Smith,18,otro,Backstage,438.24,México DF,39,E,0
+50,Alexander Anderson,73,mujer,General,914.57,México DF,22,C,0
+51,Laura Lopez,18,mujer,Backstage,189.85,Toronto,19,F,1
+52,Ana Gonzalez,62,mujer,Backstage,476.46,París,9,A,0
+53,Gabriel Brown,24,hombre,Backstage,357.17,Londres,15,F,1
+54,Daniel Martinez,51,hombre,General,249.17,Toronto,17,C,0
+55,Luis Jackson,36,otro,General,358.65,México DF,39,A,0
+56,Camila Miller,63,otro,VIP,83.54,Buenos Aires,14,D,0
+57,Laura Thomas,37,hombre,General,161.74,Bogotá,49,D,1
+58,Isabella Brown,19,mujer,General,617.59,Sídney,39,C,0
+59,Sofia Wilson,23,hombre,Backstage,206.98,París,3,A,1
+60,Samantha Wilson,24,mujer,Backstage,261.58,México DF,48,F,1
+61,Ana Taylor,24,mujer,General,724.53,Bogotá,21,E,0
+62,Daniel Moore,64,hombre,VIP,368.32,Toronto,1,F,0
+63,Ana Gonzalez,30,mujer,General,139.00,México DF,22,F,0
+64,Sofia Davis,20,hombre,General,623.67,Nueva York,6,B,0
+65,Gabriel Taylor,55,mujer,General,84.09,Nueva York,20,D,1
+66,Daniel Lopez,40,otro,Backstage,789.74,Nueva York,15,B,0
+67,María Gonzalez,57,mujer,Backstage,784.18,Londres,31,A,1
+68,Miguel Rodriguez,55,otro,VIP,77.43,Londres,1,F,0
+69,Ana Smith,60,hombre,General,161.29,Lima,23,C,1
+70,Daniel García,57,mujer,Backstage,913.49,Madrid,1,A,0
+71,Miguel García,66,hombre,VIP,411.58,Madrid,42,D,0
+72,Daniel Lopez,75,mujer,VIP,159.73,Nueva York,5,F,1
+73,Samantha García,28,hombre,General,845.63,Nueva York,19,A,0
+74,Carlos Rodriguez,23,hombre,Backstage,757.39,Madrid,47,C,0
+75,Gabriel Davis,50,hombre,Backstage,396.49,Toronto,8,F,0
+76,Luis Davis,45,hombre,General,556.77,Lima,12,B,0
+77,Gabriel García,56,otro,Backstage,655.44,Los Angeles,11,C,0
+78,Daniel Miller,19,mujer,General,684.81,Nueva York,28,E,1
+79,Emma Johnson,33,mujer,General,619.25,Berlín,32,C,1
+80,David Brown,54,hombre,VIP,421.17,Santiago,41,A,0
+81,Alexander Smith,35,mujer,Backstage,812.59,Nueva York,25,A,0
+82,Sofia Lopez,35,otro,Backstage,89.20,Sídney,50,A,1
+83,Alexander Smith,64,hombre,VIP,610.38,Los Angeles,11,E,0
+84,Samantha Brown,67,mujer,VIP,692.10,Buenos Aires,38,C,1
+85,Victoria Taylor,58,hombre,Backstage,877.49,México DF,45,B,1
+86,Sofia Moore,67,mujer,VIP,935.02,Buenos Aires,17,A,1
+87,Emma Moore,64,hombre,General,497.65,Lima,44,C,1
+88,Samantha Martinez,20,mujer,VIP,637.31,Berlín,23,D,1
+89,Ana Johnson,33,hombre,Backstage,350.74,Sídney,43,A,1
+90,Carlos Moore,27,otro,Backstage,824.17,Lima,21,B,1
+91,Valentina Anderson,22,otro,General,474.18,Madrid,11,C,1
+92,Emma Lopez,59,mujer,General,454.82,Santiago,39,C,1
+93,Samantha Rodriguez,57,otro,Backstage,573.85,México DF,15,C,0
+94,Samantha Moore,35,otro,Backstage,987.94,Lima,5,A,0
+95,Emma Gonzalez,41,mujer,VIP,393.74,Santiago,5,C,0
+96,María Moore,23,hombre,General,442.42,Buenos Aires,3,F,0
+97,Carlos Brown,66,otro,General,174.53,Madrid,16,B,1
+98,Laura García,33,otro,General,797.11,Lima,10,B,1
+99,Alexander Moore,36,hombre,General,574.84,Lima,18,F,0
+100,Emma Jackson,29,hombre,Backstage,686.64,Buenos Aires,24,C,1
+101,Isabella Taylor,64,hombre,Backstage,600.17,México DF,15,A,1
+102,Gabriel Rodriguez,48,otro,VIP,416.52,Tokio,7,B,1
+103,Ana Moore,18,hombre,General,763.13,Tokio,10,B,0
+104,Victoria Taylor,70,mujer,Backstage,489.43,Bogotá,35,E,1
+105,Laura García,32,otro,Backstage,784.07,Lima,5,D,1
+106,Emma Rodriguez,41,hombre,Backstage,895.53,Londres,18,D,0
+107,Luis Jackson,39,mujer,Backstage,830.25,Lima,43,F,0
+108,Emma Brown,54,hombre,VIP,529.98,Bogotá,3,C,1
+109,Valentina Brown,59,mujer,VIP,235.04,Berlín,30,C,1
+110,David Brown,50,otro,Backstage,563.36,Lima,2,B,0
+111,Valentina Jackson,40,otro,Backstage,439.30,Toronto,26,B,1
+112,Camila Taylor,34,hombre,VIP,251.70,París,9,B,1
+113,Emma Martinez,27,otro,VIP,574.81,Berlín,42,A,0
+114,David Thomas,26,otro,General,235.14,México DF,27,A,0
+115,Miguel Wilson,69,mujer,General,816.48,París,17,B,0
+116,Gabriel Martinez,48,otro,Backstage,515.67,Sídney,19,F,0
+117,Emma Thomas,23,mujer,VIP,337.56,Berlín,9,C,1
+118,Luis Jackson,37,mujer,General,544.45,Toronto,14,F,0
+119,Camila Jackson,70,otro,VIP,291.52,Madrid,26,E,0
+120,John Taylor,62,otro,Backstage,97.72,México DF,48,D,0
+121,David Anderson,20,mujer,VIP,729.79,París,7,E,0
+122,Valentina Martinez,71,mujer,Backstage,286.27,Londres,31,A,1
+123,Isabella García,56,mujer,General,264.09,Nueva York,23,E,1
+124,Laura Thomas,75,otro,General,107.19,Buenos Aires,8,D,1
+125,Luis Jackson,23,hombre,Backstage,371.35,Toronto,32,E,0
+126,John Lopez,74,otro,VIP,793.24,Santiago,21,F,1
+127,John Taylor,33,otro,VIP,687.32,París,24,F,0
+128,Alexander Brown,57,hombre,VIP,421.79,Sídney,3,A,1
+129,María Smith,40,mujer,General,211.24,Los Angeles,29,C,0
+130,Daniel Martinez,51,otro,VIP,566.17,Buenos Aires,41,F,0
+131,Alexander Gonzalez,19,hombre,General,856.91,Lima,11,E,1
+132,Emma Rodriguez,55,hombre,General,415.41,México DF,43,D,0
+133,Emma Martinez,21,otro,Backstage,222.32,París,14,E,0
+134,David Thomas,40,hombre,General,963.57,Buenos Aires,42,E,1
+135,Isabella Gonzalez,40,mujer,Backstage,124.20,Toronto,20,B,1
+136,Samantha Thomas,48,mujer,General,627.36,Bogotá,10,C,0
+137,Sofia Davis,56,mujer,General,569.05,Sídney,44,B,1
+138,David Anderson,41,otro,General,995.27,México DF,42,C,1
+139,David Gonzalez,55,hombre,VIP,57.68,Tokio,48,C,0
+140,Ana Lopez,64,mujer,General,394.40,Berlín,48,C,1
+141,Victoria Brown,67,hombre,VIP,464.33,Berlín,16,A,1
+142,Daniel Moore,36,hombre,General,675.38,Toronto,30,D,1
+143,Camila Jackson,60,otro,Backstage,283.94,Tokio,33,D,0
+144,Ana Brown,55,hombre,VIP,150.57,Santiago,42,F,1
+145,Laura Thomas,48,mujer,Backstage,808.20,Tokio,2,A,0
+146,Miguel Moore,75,hombre,Backstage,916.89,Los Angeles,6,C,0
+147,Samantha Wilson,45,mujer,VIP,352.08,Nueva York,20,C,0
+148,John Wilson,56,hombre,General,827.79,México DF,28,A,1
+149,Emma Taylor,41,otro,Backstage,760.95,Lima,28,B,1
+150,Sofia Wilson,32,otro,General,414.71,Sídney,28,F,1
+151,David Wilson,19,hombre,Backstage,463.14,Nueva York,10,A,1
+152,Samantha García,40,mujer,VIP,509.14,Sídney,5,D,0
+153,Carlos Anderson,35,otro,General,938.28,París,16,B,0
+154,Carlos Lopez,25,otro,General,635.87,Nueva York,13,A,1
+155,Gabriel Jackson,37,mujer,Backstage,686.12,México DF,40,C,1
+156,Isabella Johnson,74,otro,General,817.49,París,24,D,1
+157,Camila Smith,64,otro,General,344.98,Los Angeles,16,D,1
+158,Ana Wilson,74,mujer,VIP,755.33,Tokio,44,C,1
+159,Alexander Wilson,56,mujer,Backstage,653.77,Nueva York,50,E,1
+160,Laura Jackson,63,otro,General,371.94,México DF,43,C,0
+161,Alexander Davis,21,mujer,General,411.16,Lima,45,A,1
+162,Victoria García,20,mujer,General,940.04,Los Angeles,24,E,1
+163,Valentina Jackson,20,hombre,Backstage,134.13,Sídney,15,A,1
+164,Ana Taylor,21,hombre,Backstage,789.76,Lima,48,F,0
+165,Luis Jackson,25,otro,Backstage,950.70,Los Angeles,19,D,1
+166,Emma Johnson,26,otro,VIP,172.46,Buenos Aires,38,D,0
+167,Laura Lopez,57,hombre,Backstage,97.68,Berlín,9,F,1
+168,Victoria Thomas,57,hombre,General,252.88,Londres,45,D,1
+169,Sofia Brown,36,otro,General,280.86,Berlín,41,F,1
+170,Sofia Miller,50,mujer,VIP,189.83,Toronto,24,C,0
+171,Camila Anderson,30,otro,VIP,685.16,Toronto,25,D,1
+172,Valentina Johnson,60,otro,General,606.98,Tokio,35,D,0
+173,Victoria Anderson,63,mujer,VIP,712.02,Tokio,36,A,1
+174,Daniel Gonzalez,23,mujer,VIP,94.32,Londres,29,D,1
+175,Daniel Johnson,24,otro,VIP,431.02,París,28,C,1
+176,Camila Davis,62,mujer,VIP,931.89,Sídney,22,D,0
+177,Camila Thomas,39,mujer,General,833.84,Nueva York,34,D,1
+178,Alexander García,68,hombre,General,353.68,Tokio,13,D,1
+179,Alexander Thomas,49,hombre,Backstage,221.73,Santiago,48,E,1
+180,Sofia García,70,otro,General,237.28,París,16,F,0
+181,Daniel Davis,50,hombre,VIP,226.23,Nueva York,5,A,0
+182,John Smith,58,hombre,Backstage,298.15,Buenos Aires,30,C,1
+183,John Brown,41,mujer,Backstage,978.06,Bogotá,31,D,0
+184,Camila Moore,75,mujer,General,981.31,Santiago,9,E,0
+185,Luis Wilson,74,hombre,VIP,586.22,Bogotá,20,E,1
+186,Laura Anderson,59,hombre,Backstage,183.44,Los Angeles,34,E,1
+187,Alexander Gonzalez,36,hombre,Backstage,169.10,Berlín,34,D,1
+188,Ana Rodriguez,66,hombre,VIP,55.51,Bogotá,32,D,0
+189,Laura Martinez,48,otro,General,442.18,Nueva York,20,B,1
+190,María Gonzalez,70,hombre,VIP,856.97,Sídney,23,D,0
+191,Alexander Miller,52,mujer,Backstage,306.52,París,28,A,1
+192,Laura Martinez,26,mujer,General,941.49,Nueva York,28,A,1
+193,Camila Smith,69,otro,VIP,912.48,Sídney,6,A,0
+194,Laura Wilson,54,mujer,General,421.08,Londres,16,E,1
+195,Victoria Brown,44,hombre,Backstage,65.62,Madrid,9,D,1
+196,Camila Lopez,71,mujer,General,284.81,Bogotá,22,D,0
+197,Samantha Davis,18,otro,VIP,641.57,Sídney,23,A,1
+198,Isabella Lopez,35,otro,General,649.17,Los Angeles,16,B,0
+199,Laura Rodriguez,47,otro,Backstage,318.62,París,20,E,1
+200,Luis Johnson,72,mujer,General,99.06,Berlín,49,A,0
+201,Daniel Brown,47,hombre,VIP,221.83,Nueva York,50,C,1
+202,Sofia Taylor,49,otro,VIP,329.91,Toronto,11,B,1
+203,Ana Davis,75,hombre,VIP,300.37,Tokio,25,B,1
+204,Alexander García,67,otro,VIP,745.12,Madrid,46,C,1
+205,Daniel Brown,73,mujer,Backstage,869.25,Sídney,36,D,1
+206,Luis Johnson,35,hombre,Backstage,222.66,Lima,8,A,0
+207,Emma Moore,29,mujer,General,572.49,París,1,E,0
+208,Ana Miller,23,mujer,General,362.34,Toronto,18,A,0
+209,John Jackson,68,otro,Backstage,525.98,Berlín,48,B,1
+210,Alexander Smith,20,otro,General,247.44,Tokio,18,B,1
+211,Miguel Rodriguez,41,otro,VIP,102.82,Toronto,17,D,0
+212,Ana Johnson,50,hombre,Backstage,990.15,Sídney,16,E,1
+213,David Davis,21,mujer,General,340.15,Madrid,50,D,1
+214,Isabella García,38,mujer,General,367.88,Santiago,19,A,1
+215,David Brown,32,hombre,Backstage,308.71,Berlín,13,B,0
+216,John Moore,42,hombre,General,998.02,Toronto,16,B,1
+217,Camila Rodriguez,60,hombre,Backstage,110.53,Toronto,39,F,0
+218,Alexander Davis,32,hombre,General,501.93,Los Angeles,34,F,0
+219,Isabella Brown,64,hombre,VIP,120.72,Bogotá,21,B,0
+220,Samantha Moore,31,mujer,Backstage,970.79,Tokio,6,B,0
+221,Ana Rodriguez,36,otro,Backstage,575.16,Londres,16,F,1
+222,Luis Gonzalez,39,mujer,General,91.84,Santiago,18,A,0
+223,Samantha García,50,hombre,VIP,232.45,Los Angeles,14,D,1
+224,Luis Brown,34,mujer,VIP,382.15,París,24,C,0
+225,Victoria Smith,73,hombre,VIP,752.11,México DF,20,C,0
+226,Camila Wilson,70,hombre,VIP,741.87,Lima,38,F,1
+227,Ana Moore,24,otro,VIP,988.74,París,1,E,0
+228,Laura Taylor,52,otro,Backstage,550.38,Buenos Aires,30,E,0
+229,Luis Smith,56,mujer,General,87.16,Madrid,4,F,0
+230,Sofia Jackson,50,mujer,VIP,217.05,Toronto,42,B,1
+231,Valentina Smith,46,mujer,VIP,408.52,Toronto,35,C,1
+232,Victoria Miller,22,otro,Backstage,349.88,Buenos Aires,27,A,0
+233,Laura Taylor,61,mujer,Backstage,784.76,Berlín,12,B,0
+234,Miguel Anderson,44,mujer,General,957.44,Lima,45,D,1
+235,Daniel Rodriguez,42,mujer,Backstage,910.39,Santiago,34,F,0
+236,Carlos García,42,hombre,General,559.64,Madrid,10,F,1
+237,Camila Taylor,30,otro,VIP,465.60,Lima,19,B,0
+238,John Moore,22,otro,General,287.92,Santiago,37,F,1
+239,Miguel Thomas,56,mujer,VIP,285.11,Berlín,44,A,0
+240,Camila Rodriguez,32,hombre,General,402.87,Lima,44,D,1
+241,Carlos Jackson,57,otro,General,215.89,Nueva York,33,C,0
+242,María Moore,74,hombre,VIP,262.17,Los Angeles,20,C,1
+243,Luis Moore,18,otro,VIP,259.35,Nueva York,45,B,0
+244,John Brown,47,otro,General,736.82,París,1,F,0
+245,Ana Gonzalez,37,hombre,VIP,73.27,Madrid,10,E,0
+246,Gabriel Wilson,29,hombre,VIP,856.07,Tokio,9,C,1
+247,Camila Moore,42,otro,Backstage,858.78,Londres,27,D,1
+248,Samantha Johnson,33,hombre,VIP,661.89,México DF,7,E,1
+249,Ana Rodriguez,20,otro,VIP,144.01,Madrid,19,E,0
+250,Emma Miller,45,mujer,Backstage,181.97,México DF,4,D,1
+251,Daniel Gonzalez,32,otro,Backstage,137.52,Londres,9,B,0
+252,Laura Lopez,44,hombre,General,656.94,Tokio,47,E,0
+253,Isabella Jackson,40,otro,Backstage,620.70,México DF,33,B,0
+254,Luis Jackson,41,hombre,VIP,829.02,Berlín,29,F,1
+255,Miguel Thomas,28,mujer,Backstage,788.43,Santiago,42,A,0
+256,Emma Taylor,75,mujer,Backstage,614.15,Bogotá,2,D,0
+257,Luis Lopez,54,otro,VIP,446.77,México DF,14,C,0
+258,Gabriel Brown,25,mujer,General,749.55,Sídney,15,F,0
+259,Miguel Thomas,56,mujer,VIP,908.33,Sídney,9,F,0
+260,Valentina García,55,otro,General,813.06,Madrid,36,C,0
+261,Ana Martinez,41,mujer,VIP,119.60,Los Angeles,49,E,0
+262,Daniel Wilson,41,mujer,General,931.61,Nueva York,36,A,0
+263,Valentina Rodriguez,21,hombre,Backstage,503.39,Toronto,9,B,0
+264,John Lopez,32,otro,General,924.83,Buenos Aires,31,F,1
+265,David Miller,42,otro,Backstage,681.24,Tokio,34,C,1
+266,Isabella Miller,63,mujer,Backstage,302.80,Nueva York,31,A,0
+267,Isabella Rodriguez,40,otro,General,756.61,Buenos Aires,22,B,0
+268,Luis Taylor,30,mujer,Backstage,637.62,Santiago,9,C,1
+269,Gabriel García,63,otro,Backstage,303.61,Toronto,39,F,1
+270,Laura Taylor,27,hombre,General,813.46,Berlín,32,C,1
+271,Miguel Rodriguez,64,mujer,Backstage,364.81,México DF,38,D,0
+272,Ana Jackson,38,hombre,Backstage,442.79,Bogotá,7,C,1
+273,Camila Martinez,72,hombre,Backstage,368.53,Londres,32,E,1
+274,Isabella Gonzalez,43,hombre,Backstage,770.33,Nueva York,20,B,1
+275,Valentina Gonzalez,69,hombre,Backstage,204.52,Bogotá,33,C,0
+276,Carlos Gonzalez,48,mujer,General,888.53,Madrid,46,F,1
+277,María Davis,46,mujer,Backstage,704.66,París,15,F,0
+278,John Thomas,25,hombre,Backstage,726.21,Nueva York,45,E,0
+279,Samantha Martinez,26,hombre,VIP,367.89,Toronto,38,B,1
+280,Luis Miller,23,mujer,General,143.24,Madrid,4,F,0
+281,Samantha Taylor,40,hombre,Backstage,235.28,Santiago,49,A,1
+282,Samantha Thomas,30,otro,General,258.95,Los Angeles,23,A,0
+283,Camila Miller,51,otro,Backstage,693.60,Tokio,40,F,0
+284,Laura Moore,66,hombre,VIP,695.04,Buenos Aires,50,F,1
+285,Laura Rodriguez,73,hombre,Backstage,990.21,Londres,15,C,1
+286,Sofia Brown,54,mujer,General,556.43,Berlín,49,B,1
+287,Valentina Smith,48,hombre,Backstage,889.01,Santiago,15,D,1
+288,Victoria Smith,35,mujer,Backstage,435.80,Bogotá,34,A,0
+289,Miguel Johnson,72,hombre,General,412.89,Sídney,12,B,0
+290,Luis Moore,73,hombre,General,913.35,Lima,12,B,0
+291,Alexander Smith,23,otro,General,268.20,Los Angeles,28,B,1
+292,Daniel García,59,hombre,Backstage,167.69,Londres,10,D,1
+293,Luis Johnson,21,otro,General,226.80,Madrid,23,F,1
+294,Miguel García,49,mujer,Backstage,133.83,Los Angeles,5,F,0
+295,Ana Brown,60,otro,General,677.32,Toronto,32,F,1
+296,Ana Rodriguez,56,otro,VIP,545.47,México DF,40,E,0
+297,Luis Miller,54,mujer,General,786.23,Toronto,4,B,0
+298,Laura Anderson,61,mujer,VIP,460.15,Santiago,18,B,1
+299,Carlos Miller,24,mujer,VIP,765.63,Madrid,37,B,0
+300,Luis García,68,mujer,General,826.54,Toronto,50,B,0
+301,María Moore,53,hombre,Backstage,667.14,México DF,23,B,1
+302,Alexander Moore,39,mujer,VIP,70.42,Buenos Aires,10,B,0
+303,Camila Moore,30,hombre,General,470.70,Los Angeles,37,B,0
+304,Valentina Wilson,38,mujer,VIP,922.95,Sídney,9,F,1
+305,Victoria Lopez,20,hombre,VIP,53.79,Londres,7,F,1
+306,Daniel Taylor,35,hombre,VIP,51.49,México DF,25,D,0
+307,Daniel Thomas,74,hombre,VIP,839.11,Toronto,48,C,1
+308,Samantha Jackson,71,mujer,VIP,361.44,Santiago,3,B,0
+309,Carlos Davis,73,hombre,Backstage,507.82,Los Angeles,21,C,0
+310,Valentina Taylor,37,otro,General,503.00,Toronto,6,A,1
+311,María Taylor,63,otro,VIP,669.20,Londres,49,A,1
+312,Samantha Brown,62,otro,VIP,775.79,Los Angeles,36,F,0
+313,Emma Moore,64,otro,Backstage,495.50,Londres,30,C,0
+314,Ana Lopez,25,hombre,General,838.28,Bogotá,43,C,1
+315,Ana Taylor,35,otro,General,405.51,Bogotá,46,A,1
+316,Camila Wilson,45,otro,Backstage,472.77,Nueva York,30,B,1
+317,Emma Johnson,47,hombre,General,140.69,Lima,44,F,0
+318,Samantha Brown,60,otro,VIP,433.26,Berlín,5,A,1
+319,Samantha Lopez,75,mujer,VIP,331.48,Buenos Aires,10,E,0
+320,Alexander Smith,53,otro,Backstage,550.07,México DF,39,A,1
+321,Sofia Moore,53,hombre,General,784.27,Tokio,44,F,1
+322,Carlos Lopez,23,mujer,VIP,409.37,Sídney,2,F,0
+323,David Wilson,56,otro,General,594.46,Berlín,30,A,1
+324,Daniel Wilson,59,otro,VIP,332.04,Sídney,14,E,0
+325,Daniel Gonzalez,65,hombre,General,789.16,Londres,50,E,1
+326,David Anderson,52,hombre,General,203.60,Lima,39,D,0
+327,Luis Moore,19,otro,General,122.20,Buenos Aires,45,B,0
+328,Gabriel Moore,49,hombre,Backstage,102.94,Madrid,28,B,0
+329,John Jackson,51,hombre,VIP,212.73,Madrid,31,B,0
+330,Alexander Miller,66,mujer,Backstage,508.87,Los Angeles,4,C,0
+331,Samantha Taylor,58,mujer,Backstage,553.52,Lima,9,E,0
+332,Samantha Jackson,53,otro,Backstage,433.54,Lima,40,A,1
+333,María Thomas,52,otro,Backstage,713.99,Sídney,12,A,1
+334,Laura Gonzalez,61,otro,Backstage,373.47,Tokio,35,B,0
+335,Sofia Wilson,38,mujer,VIP,836.61,Santiago,33,B,1
+336,Gabriel García,47,otro,VIP,940.63,Bogotá,31,E,0
+337,Carlos Anderson,37,hombre,VIP,404.64,México DF,34,E,0
+338,Samantha Taylor,24,hombre,General,405.02,Berlín,46,E,0
+339,John Davis,40,otro,Backstage,864.82,Berlín,39,A,0
+340,Samantha Miller,29,otro,Backstage,79.77,Bogotá,20,C,0
+341,María Taylor,18,mujer,General,115.34,Nueva York,11,A,1
+342,Victoria Gonzalez,38,otro,General,577.27,Nueva York,23,C,1
+343,Valentina Brown,32,mujer,VIP,758.91,París,2,E,1
+344,Gabriel Davis,31,hombre,General,422.28,Sídney,33,A,1
+345,Victoria Jackson,56,otro,Backstage,892.69,Londres,47,B,1
+346,Emma Moore,69,otro,Backstage,608.55,Bogotá,46,F,1
+347,Valentina Taylor,52,hombre,VIP,69.07,Madrid,50,B,1
+348,Valentina Smith,64,otro,General,160.98,Toronto,20,D,1
+349,Alexander Taylor,32,otro,VIP,260.66,México DF,27,C,0
+350,John Miller,37,hombre,Backstage,55.52,Madrid,18,D,0
+351,Miguel Davis,66,hombre,Backstage,949.52,Bogotá,24,C,0
+352,David Moore,58,hombre,General,404.02,Santiago,19,A,1
+353,Daniel Johnson,57,mujer,Backstage,421.01,Tokio,5,F,1
+354,Carlos Taylor,25,mujer,VIP,624.66,Nueva York,1,E,0
+355,Miguel García,52,otro,Backstage,785.39,Buenos Aires,27,F,0
+356,Sofia Taylor,38,otro,General,619.57,Sídney,10,E,1
+357,Carlos García,22,mujer,VIP,806.32,Santiago,6,C,0
+358,Isabella Rodriguez,20,otro,General,885.36,Madrid,49,A,1
+359,Gabriel Miller,49,mujer,Backstage,965.55,Lima,46,D,1
+360,Carlos Brown,71,otro,General,649.33,Lima,32,B,1
+361,David Brown,65,hombre,General,317.11,Nueva York,19,D,1
+362,Isabella Moore,72,otro,Backstage,151.09,Londres,21,C,1
+363,John Gonzalez,22,hombre,VIP,991.25,Buenos Aires,50,F,1
+364,Alexander Taylor,49,otro,General,774.00,México DF,49,E,1
+365,Daniel Taylor,63,otro,Backstage,267.85,Londres,4,B,0
+366,Valentina Brown,43,otro,General,550.42,Santiago,31,F,1
+367,Sofia Davis,49,otro,General,494.29,Sídney,15,D,0
+368,María Moore,54,otro,General,824.11,Buenos Aires,48,E,0
+369,María Gonzalez,44,hombre,Backstage,187.86,Santiago,13,C,0
+370,Camila Moore,29,otro,General,195.37,Sídney,38,C,0
+371,Isabella Jackson,70,mujer,General,833.97,Buenos Aires,29,F,1
+372,Luis García,42,hombre,General,392.92,Bogotá,46,E,1
+373,Emma Rodriguez,64,otro,General,475.94,Londres,13,E,1
+374,Victoria Lopez,50,mujer,General,465.90,Madrid,46,D,0
+375,Luis Taylor,44,otro,General,230.69,Los Angeles,43,E,0
+376,María Davis,71,hombre,Backstage,698.10,Buenos Aires,24,C,1
+377,María García,75,hombre,Backstage,115.23,Buenos Aires,5,C,0
+378,Isabella Johnson,48,mujer,General,186.02,Berlín,11,F,0
+379,Valentina Anderson,71,otro,General,911.55,Buenos Aires,36,F,1
+380,Daniel Anderson,41,otro,General,703.62,Berlín,21,D,1
+381,Camila Lopez,57,hombre,VIP,519.94,Madrid,15,E,1
+382,Laura García,49,hombre,General,91.04,Toronto,20,C,0
+383,Carlos García,23,mujer,VIP,688.60,Lima,32,C,1
+384,Carlos Anderson,70,mujer,Backstage,454.39,París,50,B,1
+385,Valentina Lopez,36,mujer,General,422.22,Lima,7,B,1
+386,Gabriel Lopez,44,otro,VIP,933.56,Lima,20,F,1
+387,María Wilson,41,mujer,VIP,969.51,México DF,49,F,0
+388,David Wilson,35,hombre,Backstage,947.89,Nueva York,25,B,0
+389,Alexander Taylor,43,otro,VIP,651.40,Nueva York,25,A,0
+390,Isabella Gonzalez,35,mujer,Backstage,851.19,Nueva York,27,D,1
+391,Camila Thomas,32,hombre,VIP,170.80,Buenos Aires,50,A,1
+392,Luis Gonzalez,21,hombre,Backstage,272.16,Nueva York,9,C,1
+393,María Anderson,56,otro,General,420.42,Londres,29,C,1
+394,Victoria Moore,18,otro,General,937.85,Santiago,29,F,1
+395,Ana Gonzalez,74,hombre,Backstage,480.30,Berlín,35,B,1
+396,Sofia Jackson,41,otro,Backstage,874.72,Toronto,19,E,0
+397,Ana Rodriguez,26,otro,General,615.19,Sídney,8,B,0
+398,Laura Davis,32,otro,Backstage,431.18,Toronto,4,E,0
+399,Miguel Rodriguez,66,hombre,Backstage,930.22,Berlín,27,F,1
+400,Miguel Wilson,54,mujer,Backstage,110.73,México DF,31,B,0
+401,Victoria Martinez,68,hombre,Backstage,69.88,México DF,50,E,1
+402,María Taylor,64,otro,Backstage,79.16,Tokio,31,B,1
+403,David Wilson,70,hombre,VIP,389.73,Bogotá,19,A,1
+404,Alexander Taylor,75,mujer,VIP,544.86,Santiago,27,E,0
+405,Miguel García,38,otro,General,144.98,Sídney,6,A,0
+406,Miguel Brown,32,otro,Backstage,485.13,Berlín,7,A,1
+407,María Jackson,61,hombre,Backstage,168.42,Santiago,33,E,1
+408,Ana Thomas,39,otro,General,517.27,Buenos Aires,12,A,0
+409,David Jackson,60,mujer,VIP,276.98,México DF,29,F,1
+410,Gabriel Lopez,26,hombre,VIP,380.19,Toronto,3,A,0
+411,Isabella Gonzalez,27,hombre,Backstage,938.12,Berlín,33,C,1
+412,Ana Johnson,42,mujer,VIP,535.93,Berlín,50,C,0
+413,Ana Davis,72,mujer,General,341.44,Madrid,33,B,0
+414,Daniel Wilson,61,mujer,VIP,447.98,Madrid,26,E,1
+415,Victoria Thomas,40,otro,Backstage,595.27,Tokio,6,D,1
+416,Alexander Martinez,25,mujer,General,383.72,Lima,12,F,0
+417,Alexander Gonzalez,35,mujer,General,794.46,Sídney,5,E,0
+418,María Anderson,23,hombre,General,126.60,Los Angeles,30,D,1
+419,Emma García,49,otro,VIP,944.06,Lima,19,A,0
+420,Victoria Jackson,50,otro,VIP,676.33,París,19,D,1
+421,Isabella Martinez,59,otro,General,278.92,Berlín,32,E,0
+422,Luis Lopez,37,hombre,VIP,616.02,Nueva York,32,C,0
+423,Gabriel Miller,28,hombre,VIP,963.54,Berlín,20,A,0
+424,Luis Miller,23,otro,VIP,429.06,México DF,15,A,0
+425,Isabella Wilson,68,mujer,Backstage,175.50,Lima,16,A,1
+426,Samantha Thomas,69,hombre,VIP,957.02,Bogotá,10,F,1
+427,María Moore,45,mujer,VIP,695.96,París,23,A,1
+428,Valentina Johnson,27,mujer,VIP,286.65,Los Angeles,25,C,1
+429,John Moore,48,mujer,VIP,814.45,Madrid,2,E,1
+430,Gabriel Rodriguez,59,otro,VIP,868.52,Los Angeles,50,F,1
+431,John Anderson,67,hombre,Backstage,762.71,Nueva York,10,D,0
+432,María Thomas,68,mujer,VIP,405.95,Bogotá,42,C,0
+433,Laura García,73,mujer,VIP,467.58,Los Angeles,4,F,0
+434,Carlos Martinez,24,mujer,General,957.66,París,2,F,0
+435,Valentina Rodriguez,59,hombre,Backstage,127.69,Madrid,41,D,0
+436,Samantha Wilson,43,otro,Backstage,980.40,Sídney,28,C,1
+437,Luis Moore,71,mujer,VIP,555.83,Toronto,44,F,0
+438,Samantha García,74,hombre,VIP,964.21,Tokio,45,B,0
+439,Victoria Davis,62,mujer,VIP,698.42,Santiago,47,A,0
+440,Isabella Miller,73,hombre,Backstage,851.45,Sídney,15,E,0
+441,Ana Moore,58,mujer,VIP,871.34,Lima,27,A,0
+442,Emma Johnson,65,otro,Backstage,941.94,Buenos Aires,14,B,0
+443,Miguel Rodriguez,71,mujer,General,202.85,Bogotá,49,F,1
+444,Emma Martinez,63,otro,Backstage,260.46,Tokio,17,B,1
+445,Alexander Brown,70,otro,VIP,350.42,Sídney,13,F,1
+446,Daniel Johnson,45,mujer,Backstage,77.53,Toronto,32,B,1
+447,Emma Martinez,70,mujer,VIP,656.11,Madrid,22,C,1
+448,Alexander Anderson,64,mujer,General,412.03,Buenos Aires,9,F,0
+449,Luis Davis,26,mujer,VIP,697.36,Bogotá,20,A,0
+450,Valentina Taylor,51,mujer,General,77.24,Nueva York,21,F,1
+451,Ana Smith,49,hombre,Backstage,721.40,Toronto,8,F,1
+452,Sofia Gonzalez,55,mujer,Backstage,929.26,Los Angeles,8,A,0
+453,Isabella Wilson,57,hombre,VIP,943.78,Nueva York,42,B,1
+454,Sofia Wilson,45,hombre,General,305.86,París,15,D,1
+455,Luis Gonzalez,50,otro,Backstage,347.02,Madrid,29,D,0
+456,John Johnson,71,hombre,Backstage,445.61,Berlín,40,F,0
+457,Sofia Jackson,40,otro,General,654.16,Bogotá,12,C,0
+458,Gabriel Wilson,29,otro,General,73.53,Buenos Aires,45,D,0
+459,Valentina Gonzalez,51,otro,General,574.09,Madrid,48,A,0
+460,Valentina Miller,45,otro,VIP,661.59,Berlín,29,F,0
+461,John Martinez,53,mujer,VIP,735.88,Sídney,17,D,0
+462,Samantha Moore,52,otro,Backstage,621.51,México DF,23,A,1
+463,Laura Smith,22,otro,VIP,764.69,Los Angeles,28,A,0
+464,Carlos Rodriguez,29,otro,Backstage,303.50,Buenos Aires,25,A,0
+465,Luis Smith,51,mujer,VIP,129.52,Bogotá,14,A,0
+466,David Gonzalez,42,mujer,Backstage,729.36,Londres,47,B,1
+467,David Davis,64,otro,Backstage,677.01,Berlín,46,E,0
+468,Victoria Brown,51,otro,Backstage,392.08,Buenos Aires,27,A,0
+469,Gabriel Gonzalez,33,otro,Backstage,340.90,París,8,E,1
+470,David Gonzalez,73,hombre,Backstage,298.07,Bogotá,22,F,0
+471,John Miller,69,mujer,General,624.00,México DF,9,F,0
+472,Isabella Moore,66,hombre,VIP,374.84,Londres,5,D,1
+473,Laura Martinez,56,mujer,VIP,609.06,Lima,15,C,0
+474,Miguel Miller,40,mujer,Backstage,183.69,Londres,28,E,1
+475,Luis Rodriguez,65,otro,VIP,671.59,Berlín,9,B,0
+476,Sofia Jackson,19,otro,General,409.76,Los Angeles,12,E,1
+477,Miguel García,33,mujer,General,170.33,Sídney,1,B,0
+478,Sofia Wilson,56,hombre,Backstage,340.80,Los Angeles,17,E,0
+479,Ana Moore,33,mujer,VIP,435.19,México DF,30,E,0
+480,María García,48,mujer,Backstage,601.63,Los Angeles,3,E,1
+481,Alexander García,42,otro,VIP,261.47,Madrid,1,C,0
+482,Ana Rodriguez,34,mujer,Backstage,375.94,Berlín,16,E,1
+483,Carlos Lopez,55,hombre,General,934.52,México DF,39,E,0
+484,Emma Wilson,69,mujer,General,754.73,Buenos Aires,32,A,1
+485,Samantha Brown,19,otro,Backstage,391.08,Madrid,18,F,1
+486,Gabriel Moore,26,mujer,Backstage,489.96,Buenos Aires,11,F,0
+487,Carlos Brown,62,hombre,Backstage,550.53,Sídney,49,D,0
+488,David Johnson,37,mujer,General,128.83,Lima,12,C,0
+489,Sofia Miller,20,mujer,General,955.72,Bogotá,29,E,0
+490,Daniel Jackson,46,mujer,General,119.12,Buenos Aires,28,A,0
+491,Miguel Lopez,39,otro,Backstage,848.65,Buenos Aires,30,D,0
+492,Carlos Rodriguez,28,mujer,VIP,518.17,Tokio,12,E,1
+493,Luis Thomas,24,mujer,VIP,506.32,Buenos Aires,13,B,1
+494,Miguel Martinez,46,hombre,Backstage,983.21,Lima,5,D,0
+495,Camila Rodriguez,67,mujer,Backstage,170.27,Los Angeles,39,F,0
+496,Victoria Anderson,69,otro,General,450.04,México DF,42,A,1
+497,Camila Moore,60,hombre,VIP,453.20,Santiago,5,C,1
+498,Samantha Martinez,43,mujer,Backstage,304.90,Santiago,4,B,0
+499,Laura Taylor,18,hombre,VIP,969.82,París,39,D,1
+500,Miguel Gonzalez,53,mujer,General,869.00,México DF,34,E,0
+501,Isabella Taylor,60,mujer,General,934.24,Lima,9,B,0
+502,Victoria Smith,43,otro,VIP,692.55,Berlín,27,E,0
+503,Gabriel Brown,73,otro,VIP,795.56,Madrid,11,D,1
+504,Miguel Martinez,22,mujer,Backstage,489.30,Los Angeles,2,D,1
+505,Laura Smith,42,otro,General,545.55,Bogotá,44,A,0
+506,Carlos Jackson,48,mujer,VIP,871.09,Madrid,5,D,0
+507,Laura Jackson,22,hombre,Backstage,314.38,Londres,12,C,0
+508,John Brown,44,mujer,Backstage,105.31,Tokio,10,F,0
+509,Alexander Miller,35,hombre,VIP,412.55,París,14,B,0
+510,Carlos Johnson,47,otro,General,226.92,Nueva York,26,E,1
+511,Victoria Wilson,32,hombre,VIP,904.92,Santiago,26,A,0
+512,Gabriel Anderson,20,otro,VIP,152.32,Toronto,17,A,0
+513,Valentina Brown,46,mujer,Backstage,976.06,Londres,16,D,0
+514,Isabella Rodriguez,34,otro,VIP,939.94,México DF,7,E,0
+515,Laura Miller,61,hombre,Backstage,620.96,México DF,46,C,0
+516,María Moore,72,mujer,Backstage,786.75,México DF,14,C,0
+517,Sofia Gonzalez,66,mujer,Backstage,313.11,Toronto,22,A,0
+518,Laura Jackson,53,mujer,VIP,245.59,Buenos Aires,24,E,0
+519,Victoria Gonzalez,43,otro,General,711.92,Sídney,26,B,1
+520,Samantha Martinez,35,otro,General,234.53,París,39,D,1
+521,Laura Smith,30,otro,General,580.19,Madrid,18,B,1
+522,Isabella Thomas,73,mujer,General,729.13,Buenos Aires,38,B,1
+523,María Rodriguez,74,mujer,VIP,449.44,Los Angeles,9,C,1
+524,Ana Gonzalez,62,otro,General,790.36,México DF,48,C,1
+525,Isabella Johnson,55,mujer,Backstage,517.15,Nueva York,34,F,0
+526,Ana Lopez,67,hombre,General,138.28,Berlín,37,F,0
+527,Miguel Taylor,71,mujer,Backstage,226.99,Tokio,18,F,1
+528,Gabriel Gonzalez,40,otro,Backstage,528.41,París,40,F,0
+529,Daniel Miller,65,hombre,General,165.02,Lima,26,F,1
+530,David Rodriguez,40,hombre,General,739.20,México DF,26,A,1
+531,María García,56,mujer,General,778.45,Sídney,18,E,0
+532,Ana Lopez,35,otro,General,977.59,Santiago,41,C,1
+533,Carlos Smith,26,mujer,General,475.95,Sídney,5,B,0
+534,Gabriel Moore,67,otro,VIP,595.18,Santiago,8,D,1
+535,Alexander Moore,28,hombre,VIP,958.30,Bogotá,32,F,1
+536,Camila Moore,36,otro,General,960.74,Nueva York,4,E,0
+537,Samantha Martinez,27,otro,Backstage,242.19,Nueva York,45,F,0
+538,Gabriel Brown,33,otro,General,144.94,Tokio,43,A,0
+539,Samantha Brown,65,otro,VIP,574.71,México DF,21,B,0
+540,Luis Jackson,27,hombre,General,941.98,Bogotá,49,B,0
+541,Miguel Moore,65,otro,VIP,656.60,México DF,32,F,1
+542,Victoria Smith,29,mujer,VIP,577.86,Bogotá,34,F,0
+543,Valentina Davis,50,mujer,Backstage,660.30,Toronto,25,B,0
+544,Carlos Rodriguez,38,hombre,General,260.54,Londres,26,A,0
+545,Alexander Gonzalez,47,otro,VIP,509.12,Lima,34,A,1
+546,Gabriel Johnson,64,otro,VIP,217.73,Nueva York,13,B,0
+547,Isabella Smith,40,mujer,Backstage,776.50,Los Angeles,11,E,1
+548,María Thomas,47,otro,Backstage,628.29,Berlín,48,B,1
+549,Sofia Thomas,21,otro,Backstage,515.91,Tokio,40,A,0
+550,Alexander Gonzalez,24,mujer,VIP,568.63,París,5,C,1
+551,Samantha Martinez,25,mujer,Backstage,652.12,Buenos Aires,20,E,1
+552,Ana Taylor,27,otro,VIP,234.92,México DF,20,D,0
+553,Laura García,64,hombre,Backstage,259.86,Berlín,7,B,1
+554,Isabella Martinez,38,otro,VIP,50.91,México DF,40,A,1
+555,Victoria Gonzalez,19,otro,Backstage,436.59,Nueva York,18,E,1
+556,John Smith,36,otro,Backstage,93.13,Sídney,50,B,0
+557,Valentina Martinez,45,mujer,Backstage,913.47,Londres,29,E,0
+558,Valentina Miller,68,mujer,General,319.56,Santiago,19,F,0
+559,Emma García,51,mujer,Backstage,88.82,México DF,36,D,0
+560,John Jackson,73,otro,VIP,924.22,Toronto,35,C,1
+561,Gabriel Martinez,35,mujer,VIP,119.04,México DF,37,E,1
+562,Samantha Moore,20,otro,VIP,864.17,Bogotá,30,B,0
+563,Camila Martinez,66,hombre,VIP,965.95,México DF,43,D,0
+564,Ana Johnson,23,mujer,General,802.61,Lima,21,B,1
+565,María Lopez,28,otro,General,990.64,Berlín,48,B,1
+566,Gabriel Martinez,72,mujer,Backstage,268.20,Nueva York,12,C,0
+567,Ana Anderson,19,mujer,Backstage,984.26,Los Angeles,25,B,0
+568,Gabriel Wilson,46,hombre,Backstage,98.10,Lima,38,C,1
+569,Miguel Smith,68,otro,General,463.80,Buenos Aires,38,B,1
+570,Laura Smith,27,mujer,Backstage,467.18,Madrid,8,D,1
+571,Valentina Jackson,36,otro,Backstage,369.60,Bogotá,45,C,0
+572,Victoria Gonzalez,38,mujer,Backstage,520.77,Buenos Aires,34,F,0
+573,Sofia Rodriguez,44,otro,VIP,340.34,Nueva York,40,D,1
+574,María Moore,57,hombre,General,522.32,Londres,3,E,0
+575,Camila García,56,hombre,VIP,449.15,Lima,34,C,0
+576,Emma Anderson,46,hombre,Backstage,398.82,Buenos Aires,37,A,0
+577,Emma Johnson,20,otro,Backstage,786.54,Toronto,24,F,0
+578,Victoria Brown,72,mujer,General,768.11,Tokio,34,B,1
+579,Victoria Gonzalez,43,hombre,General,142.76,Lima,35,F,1
+580,Luis Wilson,21,mujer,General,416.70,Berlín,21,A,0
+581,Luis Rodriguez,30,hombre,Backstage,193.91,Bogotá,39,F,0
+582,Ana Jackson,36,mujer,General,895.32,Santiago,15,C,1
+583,Victoria Brown,58,mujer,VIP,839.92,Madrid,23,E,1
+584,David Jackson,63,mujer,General,229.47,Buenos Aires,10,A,1
+585,John Miller,33,mujer,Backstage,876.72,París,16,F,1
+586,Isabella Miller,51,otro,General,711.65,Sídney,25,D,0
+587,David Smith,67,mujer,General,540.06,Lima,1,A,1
+588,Camila Jackson,65,hombre,Backstage,671.66,Berlín,12,B,0
+589,Ana Jackson,30,mujer,General,839.94,Los Angeles,4,E,1
+590,Valentina Wilson,41,mujer,General,124.12,México DF,41,F,0
+591,Daniel Johnson,65,hombre,General,181.49,París,36,F,1
+592,David Rodriguez,53,hombre,General,234.95,Toronto,28,C,1
+593,Daniel Martinez,27,otro,Backstage,555.35,Toronto,7,D,0
+594,Victoria Davis,20,otro,Backstage,632.74,Bogotá,3,C,1
+595,David Wilson,72,mujer,VIP,403.92,Los Angeles,2,B,1
+596,Alexander Wilson,47,hombre,Backstage,440.74,Berlín,37,D,1
+597,Sofia Martinez,57,hombre,Backstage,167.35,Bogotá,34,F,1
+598,Isabella Jackson,57,mujer,General,99.68,Toronto,18,B,0
+599,Ana Moore,57,mujer,General,529.38,Los Angeles,17,F,1
+600,María García,57,hombre,VIP,64.65,Berlín,27,A,0
+601,Sofia Davis,48,otro,General,716.62,Los Angeles,8,B,1
+602,María Anderson,72,mujer,Backstage,283.52,Nueva York,39,F,1
+603,Valentina Miller,63,otro,Backstage,359.42,Lima,35,D,1
+604,Laura Johnson,31,mujer,General,711.85,Santiago,49,D,0
+605,Ana Jackson,53,otro,VIP,189.98,Berlín,43,B,0
+606,John Johnson,66,otro,VIP,216.55,Nueva York,50,A,1
+607,Laura Smith,33,mujer,VIP,427.98,Buenos Aires,9,A,0
+608,Luis Jackson,61,hombre,General,986.73,Nueva York,19,F,0
+609,David Lopez,72,hombre,Backstage,402.80,Lima,24,A,0
+610,Sofia Smith,34,otro,General,799.58,Madrid,24,F,1
+611,Daniel Miller,63,otro,Backstage,188.14,Madrid,18,E,0
+612,Isabella Gonzalez,19,mujer,Backstage,258.52,Bogotá,1,C,0
+613,Ana Martinez,62,otro,General,810.88,Nueva York,28,C,0
+614,Miguel Martinez,36,otro,General,243.10,Tokio,44,C,0
+615,David Smith,71,hombre,VIP,270.80,Tokio,16,F,0
+616,Emma Smith,66,mujer,VIP,871.65,Sídney,5,E,1
+617,Daniel Anderson,47,otro,General,674.52,Buenos Aires,35,B,0
+618,David García,64,mujer,General,469.22,Toronto,10,A,0
+619,Ana Brown,32,otro,General,743.77,Berlín,42,B,0
+620,Samantha García,64,mujer,Backstage,785.21,Bogotá,26,F,1
+621,María Wilson,18,otro,General,388.38,Sídney,7,C,1
+622,Camila Davis,43,mujer,Backstage,462.64,México DF,7,C,0
+623,Isabella Jackson,29,mujer,VIP,197.89,Bogotá,2,A,0
+624,David Lopez,54,hombre,General,772.63,Santiago,27,E,1
+625,Daniel Moore,49,otro,Backstage,794.33,Toronto,49,C,1
+626,David Johnson,60,mujer,General,182.00,Nueva York,31,F,1
+627,Laura Gonzalez,24,otro,General,186.34,México DF,40,E,1
+628,Isabella Jackson,30,hombre,Backstage,736.53,Los Angeles,15,F,1
+629,John Lopez,44,hombre,VIP,285.14,Buenos Aires,2,D,0
+630,Valentina Thomas,50,hombre,Backstage,294.01,Berlín,2,E,0
+631,Miguel Brown,72,hombre,VIP,942.37,Madrid,17,E,1
+632,Victoria Jackson,38,hombre,General,154.64,Los Angeles,9,A,1
+633,Victoria Miller,48,hombre,VIP,242.02,Madrid,12,A,1
+634,Victoria Gonzalez,67,hombre,Backstage,478.20,México DF,44,F,1
+635,David Gonzalez,43,mujer,Backstage,851.25,Santiago,19,B,0
+636,Alexander Martinez,44,otro,Backstage,311.69,Londres,34,A,0
+637,Luis Moore,41,mujer,General,805.34,Los Angeles,22,B,0
+638,John Johnson,58,mujer,Backstage,854.10,Toronto,3,E,0
+639,Sofia Martinez,25,otro,General,581.21,Sídney,4,F,0
+640,Daniel Anderson,33,otro,Backstage,790.95,Buenos Aires,30,A,0
+641,Alexander Thomas,39,mujer,VIP,554.47,Buenos Aires,37,C,1
+642,Gabriel Martinez,53,hombre,VIP,429.05,Berlín,17,B,0
+643,Daniel Moore,29,mujer,General,943.75,Sídney,15,A,1
+644,Emma García,28,otro,Backstage,185.27,Londres,12,E,0
+645,Valentina Martinez,18,hombre,VIP,492.29,Toronto,16,E,0
+646,David Gonzalez,25,hombre,Backstage,574.11,Londres,12,D,1
+647,Sofia Johnson,53,hombre,VIP,573.97,Buenos Aires,7,F,0
+648,Samantha Rodriguez,40,mujer,VIP,960.52,Lima,43,E,0
+649,Alexander Wilson,29,mujer,Backstage,98.23,Santiago,13,E,1
+650,Isabella Martinez,22,otro,VIP,408.53,Londres,48,C,0
+651,Camila Wilson,39,otro,General,104.23,París,33,E,1
+652,David Miller,19,mujer,Backstage,718.75,Toronto,28,B,1
+653,Emma Thomas,61,otro,VIP,478.23,Santiago,17,A,0
+654,David Brown,55,hombre,Backstage,939.02,México DF,17,C,1
+655,Ana Moore,25,mujer,Backstage,241.22,Bogotá,34,E,0
+656,María García,48,hombre,Backstage,269.82,Londres,44,D,0
+657,Carlos Miller,32,otro,Backstage,536.63,Sídney,34,F,0
+658,David Anderson,59,hombre,Backstage,802.30,Berlín,27,F,1
+659,Carlos Moore,52,mujer,General,72.18,Tokio,32,F,1
+660,Gabriel Miller,56,otro,General,577.49,Londres,18,D,1
+661,Emma Thomas,29,otro,Backstage,535.20,Tokio,29,C,0
+662,Carlos Lopez,19,otro,VIP,658.59,Sídney,25,E,1
+663,Samantha García,38,hombre,Backstage,51.29,México DF,14,C,0
+664,Luis Johnson,60,hombre,General,557.02,Londres,33,E,1
+665,Victoria Jackson,24,otro,General,949.24,Nueva York,41,F,0
+666,Ana Jackson,27,mujer,General,173.36,México DF,8,C,1
+667,María Gonzalez,40,mujer,General,315.06,Los Angeles,26,C,1
+668,Camila Gonzalez,20,hombre,Backstage,544.72,Sídney,37,E,0
+669,Emma Wilson,51,hombre,General,80.78,Berlín,21,E,1
+670,Victoria Jackson,43,hombre,VIP,973.30,Lima,34,D,1
+671,Samantha García,54,mujer,VIP,374.46,Tokio,40,F,0
+672,Camila Rodriguez,74,otro,Backstage,723.26,Toronto,43,C,1
+673,Laura Smith,52,hombre,General,246.53,Bogotá,46,E,0
+674,Miguel Gonzalez,51,otro,Backstage,360.54,Santiago,1,C,0
+675,Emma Thomas,35,otro,General,218.24,Berlín,35,B,0
+676,Valentina Moore,40,otro,Backstage,735.44,Madrid,37,F,1
+677,Carlos Taylor,37,mujer,VIP,311.67,Madrid,1,D,1
+678,John Wilson,24,mujer,General,667.62,México DF,9,C,0
+679,Isabella Moore,43,hombre,VIP,309.16,París,23,A,0
+680,Valentina Moore,51,mujer,Backstage,441.71,México DF,4,C,1
+681,Isabella Lopez,58,otro,VIP,679.80,Los Angeles,12,E,0
+682,Miguel Moore,50,mujer,Backstage,554.91,México DF,1,C,0
+683,Victoria Davis,68,otro,VIP,426.65,Sídney,48,F,0
+684,Ana Lopez,26,otro,Backstage,949.55,Tokio,49,B,1
+685,Valentina Anderson,21,mujer,Backstage,504.54,Tokio,25,D,1
+686,Laura Jackson,51,hombre,VIP,603.39,México DF,3,C,1
+687,Sofia Taylor,51,mujer,Backstage,975.83,Nueva York,36,D,0
+688,Valentina Moore,21,hombre,VIP,119.91,Los Angeles,24,C,1
+689,David Anderson,26,hombre,General,425.37,París,7,A,1
+690,David Davis,57,hombre,General,661.55,Buenos Aires,17,D,1
+691,David Johnson,56,otro,Backstage,307.72,París,33,A,0
+692,Isabella Brown,18,mujer,VIP,376.50,Santiago,23,B,1
+693,Emma Moore,39,otro,Backstage,733.08,Bogotá,18,A,0
+694,John Anderson,35,mujer,Backstage,514.10,Buenos Aires,23,E,1
+695,Carlos Martinez,49,otro,Backstage,708.88,París,2,D,0
+696,Ana Gonzalez,18,otro,General,776.55,Nueva York,29,D,0
+697,Sofia Martinez,35,hombre,VIP,992.25,París,12,D,1
+698,Isabella Martinez,39,mujer,General,120.78,Madrid,23,C,1
+699,Camila García,26,hombre,General,438.95,Tokio,40,F,0
+700,Camila Lopez,72,otro,Backstage,936.99,Santiago,17,A,0
+701,Emma Miller,55,otro,VIP,655.94,París,13,B,1
+702,Daniel Rodriguez,54,otro,Backstage,798.03,Santiago,42,D,1
+703,John Martinez,37,otro,Backstage,539.14,Toronto,10,E,1
+704,Isabella Lopez,63,otro,Backstage,719.08,Nueva York,27,B,0
+705,Daniel Miller,33,mujer,Backstage,502.64,Lima,11,E,0
+706,Samantha Moore,43,mujer,VIP,71.76,Londres,11,E,1
+707,Ana Gonzalez,74,mujer,VIP,511.45,Madrid,40,C,1
+708,Laura Wilson,25,otro,VIP,167.55,Buenos Aires,25,E,0
+709,John Thomas,29,hombre,VIP,946.47,México DF,2,D,1
+710,Carlos Thomas,50,hombre,Backstage,660.25,París,46,A,0
+711,Daniel Smith,47,otro,VIP,837.48,Santiago,12,C,0
+712,Daniel García,50,hombre,VIP,79.90,Buenos Aires,25,E,1
+713,Luis Moore,34,mujer,General,687.46,Sídney,27,B,0
+714,Ana Miller,29,hombre,Backstage,916.91,París,45,D,1
+715,Laura Miller,23,otro,Backstage,432.85,Tokio,48,A,0
+716,Carlos Rodriguez,37,mujer,General,189.86,Toronto,25,A,0
+717,Valentina Moore,73,otro,VIP,536.51,Bogotá,14,F,1
+718,Camila Jackson,39,hombre,Backstage,857.72,México DF,13,B,1
+719,Sofia Thomas,21,mujer,VIP,739.99,Los Angeles,28,D,1
+720,Isabella Thomas,42,mujer,General,609.75,Sídney,46,B,1
+721,Victoria Brown,35,otro,VIP,755.13,Toronto,2,B,0
+722,Laura Taylor,54,otro,General,259.64,Nueva York,18,E,1
+723,Isabella Moore,74,otro,General,283.46,Nueva York,38,C,0
+724,Carlos Rodriguez,31,mujer,Backstage,953.07,Toronto,45,D,1
+725,Gabriel Gonzalez,31,otro,VIP,967.80,Santiago,5,E,0
+726,David García,56,otro,General,615.53,Toronto,17,B,1
+727,Camila Davis,60,otro,General,630.41,Tokio,38,E,1
+728,Samantha Wilson,57,hombre,VIP,457.24,Bogotá,26,F,0
+729,John Lopez,35,mujer,Backstage,248.41,Berlín,11,D,1
+730,Daniel Taylor,41,otro,VIP,806.14,Madrid,49,F,0
+731,David Davis,67,otro,Backstage,700.99,Bogotá,30,D,0
+732,Camila Rodriguez,67,otro,General,920.17,Sídney,46,C,1
+733,Carlos Smith,50,mujer,VIP,959.41,Toronto,4,D,0
+734,Ana Jackson,43,hombre,General,200.00,Santiago,26,C,1
+735,Miguel Brown,66,hombre,General,172.13,Los Angeles,3,C,1
+736,John Johnson,74,hombre,VIP,526.24,Londres,5,E,0
+737,David Smith,63,mujer,Backstage,251.98,Madrid,40,B,1
+738,Isabella Johnson,21,mujer,Backstage,226.89,Bogotá,13,C,1
+739,Emma Miller,25,hombre,Backstage,748.99,Londres,22,B,0
+740,Valentina Davis,51,hombre,VIP,178.07,Madrid,13,C,1
+741,María Brown,42,otro,Backstage,668.19,Tokio,13,C,0
+742,Isabella Taylor,18,mujer,General,692.22,Tokio,36,B,0
+743,Carlos Jackson,67,mujer,General,734.84,Toronto,26,B,0
+744,David Gonzalez,40,hombre,General,491.53,Buenos Aires,46,C,0
+745,Ana Lopez,41,mujer,VIP,244.16,Nueva York,15,B,1
+746,Daniel García,46,otro,Backstage,938.10,Buenos Aires,35,C,0
+747,Daniel Smith,64,otro,VIP,293.82,Nueva York,7,E,1
+748,Valentina Anderson,18,hombre,General,604.33,París,48,C,0
+749,Emma Martinez,71,hombre,Backstage,670.00,Lima,48,F,1
+750,Laura Wilson,60,hombre,VIP,406.76,Berlín,34,F,0
+751,Gabriel Davis,19,hombre,VIP,557.93,París,12,B,0
+752,María Smith,50,otro,General,147.69,Nueva York,20,E,0
+753,María Anderson,34,hombre,General,186.43,Buenos Aires,5,F,1
+754,John Anderson,31,mujer,Backstage,187.39,Los Angeles,16,F,1
+755,Sofia Brown,59,mujer,Backstage,758.54,Lima,22,B,1
+756,Samantha Smith,69,mujer,Backstage,958.11,Madrid,10,F,1
+757,Emma Martinez,33,otro,Backstage,682.30,Santiago,7,D,1
+758,María Jackson,38,hombre,General,167.08,Lima,39,F,1
+759,Camila García,46,otro,VIP,740.67,Sídney,44,A,1
+760,Samantha Johnson,31,mujer,VIP,307.17,Santiago,27,E,1
+761,Alexander Jackson,50,mujer,Backstage,875.15,Toronto,20,A,0
+762,Carlos Davis,49,hombre,VIP,401.94,Nueva York,33,E,0
+763,Camila Johnson,23,hombre,Backstage,82.33,Toronto,11,B,1
+764,Victoria Jackson,27,otro,Backstage,457.84,Tokio,19,C,0
+765,María Gonzalez,56,otro,Backstage,927.67,Nueva York,45,E,0
+766,Emma Johnson,38,otro,Backstage,633.49,Bogotá,16,A,1
+767,Gabriel García,24,otro,Backstage,779.34,Toronto,24,A,1
+768,John García,50,mujer,VIP,318.01,Los Angeles,46,E,1
+769,Laura Jackson,21,mujer,VIP,905.20,Buenos Aires,2,B,1
+770,Miguel Brown,25,mujer,General,843.20,Madrid,33,E,1
+771,John Wilson,23,otro,VIP,677.63,México DF,20,A,0
+772,Sofia Lopez,49,mujer,VIP,548.28,Madrid,33,B,1
+773,Miguel Wilson,50,otro,Backstage,978.09,Tokio,40,F,0
+774,John Wilson,29,otro,General,260.78,Tokio,8,E,0
+775,Emma Thomas,70,hombre,Backstage,911.14,Lima,19,C,0
+776,María Smith,70,hombre,General,294.58,Bogotá,13,F,0
+777,Camila Johnson,70,otro,Backstage,178.21,Sídney,22,D,0
+778,Isabella Brown,36,mujer,VIP,561.92,Berlín,16,E,1
+779,Daniel Jackson,64,hombre,Backstage,221.06,Madrid,48,F,0
+780,Laura Lopez,55,otro,VIP,528.02,Lima,10,C,1
+781,Alexander Anderson,20,otro,General,888.87,Santiago,22,C,0
+782,Luis Brown,58,otro,VIP,839.12,Bogotá,33,D,1
+783,Valentina Johnson,26,mujer,VIP,99.65,Los Angeles,41,D,1
+784,Luis Lopez,38,hombre,Backstage,229.15,Lima,41,A,1
+785,Samantha Martinez,50,mujer,VIP,208.55,Tokio,37,A,1
+786,Ana Brown,60,hombre,General,828.23,Nueva York,9,E,1
+787,Miguel Anderson,67,hombre,VIP,886.94,Londres,15,C,0
+788,Gabriel Taylor,31,hombre,General,746.98,Tokio,48,E,0
+789,Samantha Wilson,68,hombre,VIP,108.09,México DF,5,E,1
+790,Valentina Rodriguez,25,otro,General,606.35,Buenos Aires,8,D,1
+791,Valentina Martinez,60,mujer,VIP,230.14,Buenos Aires,46,D,1
+792,Camila Thomas,61,otro,General,429.72,Nueva York,28,D,1
+793,Daniel Smith,32,otro,VIP,464.34,Buenos Aires,1,C,1
+794,Carlos Thomas,64,otro,VIP,391.51,Lima,26,D,0
+795,Valentina Wilson,41,hombre,General,185.10,Los Angeles,42,A,1
+796,David Rodriguez,27,hombre,VIP,131.92,Nueva York,12,C,1
+797,Luis Wilson,49,otro,Backstage,531.64,París,27,C,0
+798,Gabriel Smith,74,otro,VIP,102.61,Londres,7,F,0
+799,María Martinez,18,hombre,VIP,531.28,París,3,F,0
+800,Gabriel Wilson,64,mujer,Backstage,505.31,Nueva York,18,E,1
+801,Luis García,23,otro,VIP,535.25,Londres,40,E,1
+802,Gabriel Smith,44,mujer,Backstage,488.90,Tokio,7,D,0
+803,Ana Smith,57,otro,VIP,675.66,Toronto,42,D,1
+804,Valentina Lopez,54,mujer,Backstage,545.17,Los Angeles,7,C,1
+805,Carlos Miller,33,otro,VIP,421.67,Los Angeles,17,D,0
+806,Sofia Martinez,58,otro,General,683.02,París,31,C,0
+807,Samantha Anderson,61,mujer,Backstage,178.11,París,25,B,1
+808,Valentina Anderson,20,mujer,General,909.93,Toronto,28,E,0
+809,John Thomas,63,mujer,VIP,73.98,París,41,D,1
+810,Valentina Moore,74,hombre,Backstage,981.85,Buenos Aires,48,A,0
+811,Daniel Moore,56,mujer,VIP,807.36,Madrid,30,A,0
+812,Sofia Anderson,72,hombre,General,528.93,Londres,29,A,0
+813,Isabella Moore,51,mujer,General,881.88,Toronto,43,D,1
+814,Alexander Rodriguez,46,mujer,VIP,339.78,Santiago,17,C,0
+815,John Moore,28,otro,VIP,459.49,Los Angeles,43,F,1
+816,David Rodriguez,21,hombre,General,116.60,Lima,36,C,1
+817,Daniel Jackson,70,mujer,Backstage,945.35,Lima,21,F,1
+818,Carlos Davis,43,otro,General,989.07,Madrid,9,E,1
+819,Ana Thomas,58,mujer,Backstage,805.05,Sídney,8,C,1
+820,Gabriel Lopez,27,otro,General,421.76,Bogotá,25,C,1
+821,Camila Wilson,61,otro,VIP,78.73,Buenos Aires,22,D,1
+822,Ana Miller,32,hombre,Backstage,957.24,Nueva York,22,B,1
+823,Carlos Davis,28,mujer,General,275.20,Lima,39,E,1
+824,Isabella Smith,20,mujer,General,751.90,Lima,9,B,1
+825,María Anderson,75,hombre,Backstage,364.56,Nueva York,39,C,0
+826,Alexander Thomas,64,otro,Backstage,171.72,Bogotá,46,B,0
+827,Luis Jackson,37,otro,Backstage,888.27,Santiago,28,E,1
+828,John Smith,54,mujer,General,737.21,Los Angeles,37,B,1
+829,Gabriel Johnson,50,hombre,General,555.16,Berlín,23,E,0
+830,Samantha Miller,31,mujer,General,830.44,Londres,13,C,0
+831,Isabella Thomas,64,otro,General,838.76,Buenos Aires,16,F,1
+832,Daniel Anderson,22,hombre,VIP,505.34,Bogotá,23,D,1
+833,Isabella Martinez,44,mujer,General,164.98,Bogotá,1,D,0
+834,Luis Anderson,69,otro,General,926.40,Bogotá,14,C,1
+835,John Anderson,27,hombre,General,149.91,Bogotá,42,D,1
+836,Camila García,43,hombre,Backstage,343.15,París,20,F,1
+837,Sofia Anderson,28,hombre,Backstage,177.28,Los Angeles,36,F,0
+838,Miguel Thomas,60,otro,VIP,431.16,Madrid,25,B,0
+839,Ana Wilson,48,hombre,General,413.91,Lima,20,A,1
+840,Emma Wilson,18,hombre,VIP,630.51,Santiago,39,D,0
+841,Luis Martinez,39,mujer,General,818.78,París,37,C,1
+842,Laura Rodriguez,72,hombre,General,530.93,Berlín,8,C,0
+843,Valentina Jackson,70,hombre,Backstage,521.35,Buenos Aires,9,D,0
+844,Isabella Anderson,28,otro,General,651.20,Tokio,5,D,0
+845,John Martinez,72,hombre,Backstage,947.92,México DF,38,A,1
+846,Laura Martinez,47,hombre,Backstage,662.95,París,40,D,1
+847,Samantha Rodriguez,50,hombre,General,940.45,Bogotá,47,B,1
+848,Laura Moore,18,mujer,Backstage,57.79,Madrid,18,B,0
+849,David Miller,72,otro,Backstage,745.69,Los Angeles,33,D,0
+850,Sofia Martinez,52,otro,VIP,727.73,Sídney,38,E,0
+851,Emma Brown,38,mujer,Backstage,890.30,Madrid,16,C,1
+852,David Brown,38,otro,Backstage,962.36,México DF,16,D,1
+853,María Taylor,72,hombre,General,185.74,Nueva York,27,F,0
+854,Laura Davis,36,mujer,VIP,127.51,Sídney,14,C,1
+855,Isabella Thomas,55,otro,General,901.74,Londres,1,E,0
+856,David Miller,54,hombre,VIP,462.53,Londres,11,C,1
+857,John Rodriguez,39,hombre,General,854.68,Bogotá,16,E,1
+858,David Jackson,63,otro,VIP,926.54,Nueva York,47,D,1
+859,Isabella Miller,51,otro,General,214.09,Toronto,15,F,1
+860,Ana Rodriguez,29,otro,Backstage,609.06,París,23,E,1
+861,Isabella Anderson,39,hombre,VIP,390.67,México DF,37,B,0
+862,Sofia Johnson,74,mujer,Backstage,426.12,Los Angeles,28,F,0
+863,Camila Johnson,64,hombre,General,373.31,Tokio,41,E,0
+864,John Moore,37,otro,VIP,974.23,Sídney,4,D,1
+865,Sofia Gonzalez,48,hombre,Backstage,555.33,Nueva York,16,B,1
+866,Valentina Thomas,34,otro,General,205.32,Bogotá,4,B,1
+867,Miguel Brown,22,otro,General,554.83,México DF,18,C,0
+868,Laura Anderson,29,otro,General,480.52,Nueva York,2,F,1
+869,Gabriel Anderson,22,mujer,General,333.86,Lima,12,C,0
+870,Sofia Moore,49,hombre,VIP,340.81,Nueva York,50,B,1
+871,Gabriel Lopez,20,otro,General,154.00,Buenos Aires,43,A,0
+872,Ana Brown,75,otro,Backstage,593.67,París,17,F,0
+873,Miguel Thomas,66,mujer,General,502.81,Toronto,1,C,0
+874,Emma Martinez,35,hombre,Backstage,137.40,Buenos Aires,46,A,1
+875,Valentina Anderson,29,otro,General,168.28,México DF,10,A,0
+876,Sofia Rodriguez,40,otro,General,373.08,Buenos Aires,41,D,1
+877,Laura Taylor,41,otro,VIP,230.14,Nueva York,50,B,0
+878,Carlos Johnson,64,hombre,VIP,796.75,Tokio,47,D,0
+879,Alexander Thomas,40,otro,VIP,794.12,Lima,49,B,1
+880,Laura Martinez,48,otro,General,936.25,Toronto,30,B,0
+881,Isabella Taylor,68,hombre,General,589.85,Los Angeles,31,E,0
+882,Luis Moore,37,otro,General,210.81,Madrid,2,B,0
+883,Valentina Wilson,66,otro,Backstage,494.87,Tokio,47,C,1
+884,Camila Anderson,33,otro,Backstage,599.74,México DF,41,F,0
+885,Carlos Anderson,36,mujer,Backstage,412.13,Los Angeles,22,A,1
+886,Gabriel Martinez,43,hombre,Backstage,84.46,Sídney,40,C,1
+887,Valentina Taylor,31,hombre,Backstage,533.63,Londres,22,A,0
+888,Carlos Taylor,30,hombre,General,530.53,Sídney,1,F,1
+889,Sofia Rodriguez,28,mujer,Backstage,952.94,Toronto,36,F,0
+890,David Jackson,59,mujer,VIP,126.94,Nueva York,15,B,1
+891,Sofia Miller,18,hombre,VIP,692.47,Lima,27,C,0
+892,María Rodriguez,51,otro,Backstage,884.57,Bogotá,2,A,1
+893,Daniel Brown,74,otro,VIP,223.38,Santiago,29,D,1
+894,David Moore,46,otro,VIP,442.42,México DF,31,D,1
+895,John Anderson,57,hombre,General,392.12,Madrid,12,A,0
+896,Alexander Wilson,42,mujer,Backstage,140.74,Londres,46,F,0
+897,Emma Thomas,60,mujer,Backstage,120.22,Nueva York,21,E,1
+898,David Lopez,25,otro,Backstage,875.16,Los Angeles,40,C,1
+899,Alexander Anderson,25,mujer,Backstage,812.37,Santiago,24,B,1
+900,Laura Lopez,41,otro,VIP,153.16,París,17,D,0
+901,María Davis,24,hombre,General,440.25,Londres,26,D,0
+902,Camila Taylor,22,mujer,VIP,577.93,Londres,19,C,1
+903,Ana Thomas,50,mujer,VIP,413.32,Berlín,28,F,1
+904,Alexander Davis,22,mujer,Backstage,682.35,Bogotá,2,A,0
+905,David García,47,mujer,General,209.57,Tokio,14,C,0
+906,Laura Wilson,72,mujer,Backstage,147.56,Bogotá,42,A,0
+907,Luis Johnson,18,mujer,General,265.78,Santiago,46,B,1
+908,Isabella Rodriguez,45,otro,General,698.87,Madrid,48,E,0
+909,Isabella Taylor,69,mujer,Backstage,424.61,Los Angeles,5,E,0
+910,Sofia Lopez,52,mujer,VIP,740.35,París,33,E,0
+911,Isabella Wilson,36,hombre,VIP,873.24,Buenos Aires,28,F,1
+912,Samantha Taylor,34,hombre,VIP,874.24,México DF,47,E,0
+913,Isabella Jackson,19,otro,VIP,270.19,Santiago,4,D,0
+914,Ana Martinez,73,mujer,General,715.37,Berlín,49,B,1
+915,Luis Smith,49,otro,General,602.72,Lima,46,F,0
+916,Daniel Thomas,64,otro,General,432.20,Berlín,32,D,1
+917,Sofia Davis,72,mujer,General,932.14,Santiago,47,F,0
+918,John Lopez,23,hombre,VIP,952.68,Lima,12,A,0
+919,Victoria García,38,otro,Backstage,845.13,París,45,D,1
+920,Alexander Brown,32,mujer,General,154.76,París,25,C,1
+921,Sofia Johnson,67,otro,VIP,478.91,Nueva York,33,E,1
+922,Victoria Miller,59,mujer,Backstage,344.55,Buenos Aires,4,D,1
+923,Gabriel Wilson,45,mujer,General,397.70,Buenos Aires,15,C,0
+924,Luis Wilson,22,otro,Backstage,765.93,Madrid,48,B,1
+925,Victoria Taylor,30,mujer,VIP,427.81,Madrid,46,C,1
+926,John Wilson,23,otro,General,421.26,Los Angeles,41,E,1
+927,Laura Lopez,73,mujer,General,403.72,México DF,30,F,1
+928,Sofia Taylor,67,mujer,VIP,792.56,Los Angeles,30,A,1
+929,Victoria Davis,52,hombre,General,799.31,Bogotá,50,F,0
+930,Camila Rodriguez,60,otro,General,884.88,México DF,39,B,0
+931,Carlos García,74,mujer,Backstage,356.50,Berlín,28,C,1
+932,María Davis,66,otro,VIP,816.08,Nueva York,19,B,0
+933,Sofia Smith,30,otro,VIP,94.71,Londres,4,A,1
+934,Victoria Anderson,45,otro,General,943.08,Nueva York,43,E,0
+935,Valentina Miller,48,otro,VIP,727.32,Los Angeles,22,A,1
+936,Ana Miller,39,hombre,Backstage,886.02,Santiago,10,D,1
+937,Laura Moore,63,hombre,VIP,245.88,Los Angeles,46,B,1
+938,Samantha Anderson,31,hombre,General,518.91,Lima,35,A,0
+939,María Wilson,61,hombre,Backstage,331.19,París,20,E,1
+940,Gabriel García,66,hombre,General,189.55,Toronto,26,D,1
+941,Camila Taylor,33,otro,VIP,272.68,Buenos Aires,11,E,1
+942,Carlos Anderson,61,hombre,General,412.81,París,49,C,1
+943,David Moore,33,mujer,VIP,527.68,Buenos Aires,29,C,0
+944,Ana Jackson,69,otro,General,637.51,Sídney,10,B,1
+945,Gabriel Rodriguez,46,otro,General,59.00,Bogotá,4,D,0
+946,Carlos Johnson,75,mujer,Backstage,361.21,México DF,7,F,0
+947,Samantha Lopez,32,otro,General,112.96,Lima,49,A,0
+948,Alexander Taylor,23,hombre,VIP,662.36,Bogotá,49,C,1
+949,John Martinez,48,otro,General,105.96,Sídney,1,D,0
+950,Laura Lopez,32,otro,General,788.13,México DF,37,A,1
+951,Alexander Davis,45,hombre,VIP,357.01,París,37,A,0
+952,Laura Gonzalez,66,mujer,General,532.11,Buenos Aires,43,F,1
+953,Ana Gonzalez,27,mujer,Backstage,739.46,Toronto,30,F,0
+954,Emma Moore,43,otro,VIP,616.69,Lima,45,F,1
+955,Emma Smith,71,hombre,Backstage,422.80,Los Angeles,48,F,0
+956,Camila Lopez,75,hombre,VIP,649.80,Berlín,12,F,1
+957,Sofia Rodriguez,27,hombre,Backstage,641.67,Toronto,15,C,1
+958,Emma Rodriguez,38,hombre,VIP,933.08,Madrid,13,C,1
+959,María Gonzalez,39,hombre,Backstage,863.36,Los Angeles,9,B,1
+960,Isabella Brown,45,otro,Backstage,936.73,Sídney,14,A,1
+961,María Lopez,66,otro,VIP,240.42,Los Angeles,7,B,0
+962,Isabella Wilson,44,otro,General,681.44,Bogotá,28,A,0
+963,Samantha Davis,71,hombre,General,676.57,Nueva York,8,B,1
+964,Victoria Johnson,41,hombre,VIP,246.43,Los Angeles,41,E,1
+965,Samantha Smith,39,mujer,Backstage,807.78,México DF,22,D,0
+966,Miguel Rodriguez,55,mujer,General,326.58,México DF,26,A,0
+967,Gabriel Smith,48,hombre,General,744.43,Toronto,30,D,0
+968,Gabriel Miller,37,hombre,General,901.15,Berlín,6,F,0
+969,Daniel Gonzalez,23,mujer,General,871.68,Toronto,37,B,0
+970,Valentina Moore,38,hombre,Backstage,127.11,Londres,20,C,0
+971,Sofia Anderson,51,otro,Backstage,709.05,Sídney,2,D,1
+972,Samantha Jackson,66,hombre,Backstage,922.39,Sídney,40,C,0
+973,Ana Johnson,38,hombre,VIP,606.36,Santiago,1,B,0
+974,Isabella Thomas,20,mujer,VIP,544.28,Sídney,30,E,1
+975,Sofia Gonzalez,33,mujer,General,749.48,Lima,6,E,1
+976,Emma Martinez,64,mujer,Backstage,150.52,México DF,2,C,1
+977,John Martinez,59,otro,General,512.81,Sídney,42,D,0
+978,Alexander Taylor,66,otro,Backstage,85.04,Bogotá,48,D,0
+979,John Rodriguez,37,mujer,Backstage,423.23,Tokio,41,C,0
+980,Miguel Smith,65,hombre,Backstage,102.29,México DF,46,E,1
+981,Valentina Thomas,36,hombre,VIP,457.87,Sídney,40,E,0
+982,Laura Lopez,62,hombre,VIP,192.71,París,18,D,1
+983,Carlos Thomas,41,mujer,Backstage,480.89,Nueva York,6,B,0
+984,David Anderson,75,otro,VIP,803.35,Londres,5,E,1
+985,Gabriel Jackson,44,hombre,VIP,788.89,Los Angeles,33,D,1
+986,Laura Thomas,51,hombre,General,91.08,Santiago,3,B,0
+987,Isabella García,36,hombre,Backstage,854.52,Lima,29,E,1
+988,Daniel Moore,71,hombre,VIP,967.68,Londres,24,E,0
+989,María Martinez,19,hombre,General,260.80,Bogotá,5,D,1
+990,John Taylor,56,otro,General,506.83,París,6,B,0
+991,Carlos Jackson,51,hombre,VIP,892.73,Bogotá,43,F,1
+992,Laura Lopez,61,mujer,General,491.46,Nueva York,14,D,1
+993,María Rodriguez,20,otro,Backstage,335.09,Toronto,47,C,0
+994,Emma Lopez,49,mujer,VIP,115.69,Berlín,33,D,1
+995,Valentina Rodriguez,28,hombre,Backstage,715.06,México DF,45,A,0
+996,María Moore,73,otro,General,569.67,Berlín,26,A,0
+997,Laura Gonzalez,74,otro,Backstage,954.08,Toronto,42,E,0
+998,Samantha Gonzalez,48,mujer,General,691.97,Santiago,43,A,0
+999,Isabella Miller,22,otro,General,597.02,Santiago,38,A,0
+1000,Emma Wilson,56,otro,Backstage,324.20,Lima,22,F,1
